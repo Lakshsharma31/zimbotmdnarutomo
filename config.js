@@ -20,7 +20,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = ''
+global.packname = '🦋Dia hatake❤'
 global.author = '🏮 𝗸𝗮𝗸𝗮𝘀𝗵𝗶 𝗕𝗼𝘁𝘇 .𝗜𝗻𝗰 2022'
 
 global.multiplier = 69 // The higher, The harder levelup
